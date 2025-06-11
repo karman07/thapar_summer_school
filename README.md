@@ -16,8 +16,8 @@
 
 ## 📚 Table of Contents
 
-- [🛠 Tech Stack](python, react, nestjs, express, heroku)
-- [🧠 How to Use](#Simply Clone for each and every branch)
+- [🛠 Tech Stack](#-tech-stack)
+- [🧠 How to Use](#-how-to-use)
 
 ---
 
@@ -45,9 +45,16 @@ Build your problem-solving muscle, logic building, and real-world application de
 
 ## 🛠 Tech Stack
 
-- **Python** (v3.8+)
-- Libraries: `NumPy`, `Pandas`, `Matplotlib`, `Flask`, `Tkinter`, `Sklearn`, `Opencv` etc.
-- Tools: Colab,Jupyter Notebook, VS Code
-
----
-
+<p>
+  <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-Cloud-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
